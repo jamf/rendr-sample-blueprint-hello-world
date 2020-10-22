@@ -1,4 +1,4 @@
-# rendr sample blueprint: hello world
+# `rendr` sample blueprint: Hello, World!
 
 A minimal Hello World blueprint for [rendr](https://github.com/jamf/rendr/)
 

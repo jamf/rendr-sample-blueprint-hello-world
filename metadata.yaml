@@ -1,0 +1,9 @@
+name: hello-world
+version: 1
+author: Brian S. <brian.stewart@jamf.com>
+description: A simple hello world blueprint
+values:
+- name: name
+  description: The name to greet
+  required: false
+  default: world
